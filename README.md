@@ -35,17 +35,6 @@ I specialize in designing, modernizing, securing, optimizing, and automating ent
 - Microsoft Certified Database Administrator (MCDBA) – SQL Server DBA
 
 ---
-
-## Professional Links
-
-🌐 Website: https://sql-it-techsolutions.com
-
-💼 LinkedIn: https://www.linkedin.com/in/louis-achungo
-
-📂 GitHub: https://github.com/lachungo
-
----
-
 ## Featured Projects
 
 | Project | Description |
