@@ -4,7 +4,7 @@
 
 Enterprise SQL Server Architecture • Azure Data Platforms • High Availability • Performance Engineering • Observability • DBA Automation
 
-24+ Years of SQL Server Architecture, Performance & Cloud Modernization
+### 24+ Years of SQL Server Architecture, Performance & Cloud Modernization
 ---
 
 Welcome to my SQL Server Architecture and Engineering Portfolio.
