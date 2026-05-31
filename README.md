@@ -79,6 +79,29 @@ I specialize in designing, modernizing, securing, optimizing, and automating ent
 
 ---
 
+## Modern Database Engineering
+
+Modern database platforms should be designed for reliability, observability, automation, and scalability—not just administration.
+
+Through architecture-led design, proactive monitoring, performance engineering, cloud modernization, and operational automation, organizations can:
+
+- Improve platform reliability and availability
+- Reduce operational risk and downtime
+- Accelerate issue detection and root cause analysis
+- Increase DBA and engineering productivity
+- Lower infrastructure and operational costs
+- Strengthen security and compliance posture
+- Enable data-driven business growth
+
+My focus is helping organizations transform traditional database operations into modern, resilient, and highly observable data platforms that support mission-critical business workloads at scale.
+
+---
+
+**Louis Achungo**  
+Principal SQL Architect | Cloud Database Architect (Azure | AWS)
+
+*"Building reliable, observable, and scalable database platforms through architecture, automation, and operational excellence."*
+
 ## Professional Links
 
 **Principal SQL Architect | Cloud Database Architect (Azure | AWS)**
