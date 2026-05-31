@@ -1,4 +1,4 @@
-# 👋 Louis Achungo
+# Louis Achungo
 
 ## Principal SQL Architect | Azure SQL | SQL Server | Cloud Database Architect
 
@@ -102,7 +102,4 @@ I specialize in designing, modernizing, securing, optimizing, and automating ent
 | 📂 GitHub | https://github.com/lachungo |
 | 🌐 Website | https://sql-it-techsolutions.com | 
 
-Email: achungolm@gmail.com  
-LinkedIn: https://www.linkedin.com/in/louis-achungo  
-GitHub: https://github.com/lachungo  
-Website: https://sql-it-techsolutions.com
+
