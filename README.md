@@ -81,8 +81,6 @@ I specialize in designing, modernizing, securing, optimizing, and automating ent
 
 ## Professional Links
 
-**Louis Achungo**
-
 **Principal SQL Architect | Cloud Database Architect (Azure | AWS)**
 
 | Platform | Link |
