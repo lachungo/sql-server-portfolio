@@ -14,9 +14,24 @@ I specialize in designing, modernizing, securing, optimizing, and automating ent
 
 ## Certifications
 
+### Cloud & Modern Data Platforms
+
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?logo=microsoftazure)
 
 ![DP-300](https://img.shields.io/badge/DP--300-Azure_Database_Administrator-0078D4?logo=microsoftazure)
+
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Snowflake Administration (COF-C02)
+- Mastering SQL Server on AWS Redshift Associate
+
+---
+
+### Microsoft SQL Server Certifications
+
+- Microsoft Certified IT Professional (MCITP) – SQL Server DBA
+- Microsoft Certified Solutions Expert (MCSE) – SQL Server DBA
+- Microsoft Certified Solutions Associate (MCSA) – SQL Server DBA
+- Microsoft Certified Database Administrator (MCDBA) – SQL Server DBA
 
 ---
 
