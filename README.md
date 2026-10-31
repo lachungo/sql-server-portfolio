@@ -16,21 +16,21 @@ I design, modernize, optimize, and automate mission-critical SQL Server and clou
 
 ## Core Specialties
 
-- Enterprise SQL Server architecture
+- Enterprise SQL Server Architecture
 - SQL Server 2016, 2019, and 2022
 - Azure SQL Database and Azure SQL Managed Instance
 - SQL Server on AWS
 - Always On Availability Groups
 - Failover Cluster Instances
-- High availability and disaster recovery
-- VLDB administration and maintenance engineering
-- Query tuning and execution-plan analysis
-- Performance engineering and workload analysis
-- Database observability and operational diagnostics
-- AI-driven database automation
-- Evidence-backed root-cause analysis
-- Cloud migration and database modernization
-- Executive-ready technical reporting
+- High Availability and Disaster Recovery
+- VLDB Index (Rebuild & Reorg) Administration and Maintenance Engineering
+- Query Tuning and Execution-Plan Analysis
+- Performance Engineering and Workload Analysis
+- Database Observability and Operational Diagnostics
+- AI-Driven Database Automation
+- Evidence-Backed Root-Cause Analysis
+- Cloud Migration and Database Modernization
+
 
 ---
 
