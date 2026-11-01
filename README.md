@@ -138,14 +138,14 @@ A strong database engineering practice should:
 
 ---
 
-## Professional Links
+## 🔗 Connect
 
-| Platform | Link |
-|---|---|
-| Website | [sql-it-techsolutions.com](https://sql-it-techsolutions.com) |
-| LinkedIn | [linkedin.com/in/louis-achungo](https://www.linkedin.com/in/louis-achungo) |
-| GitHub | [github.com/lachungo](https://github.com/lachungo) |
-| Agentic AI RCA Toolkit | [github.com/lachungo/agentic-ai-rca-toolkit](https://github.com/lachungo/agentic-ai-rca-toolkit) |
+- 🌐 Portfolio: https://sql-it-techsolutions.com/  
+- 💼 LinkedIn: https://linkedin.com/in/louis-achungo  
+
+---
+
+⭐ If this helped, consider starring the repo.
 
 ---
 
